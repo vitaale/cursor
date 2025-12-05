@@ -37,5 +37,4 @@
 
 ## Installation
 
-1. Copy the file [vitaale](https://github.com/vitaale/ghostty/blob/main/vitaale) into your [.config/ghostty/themes/](https://ghostty.org/docs/config/reference#theme) directory.
-2. Reload or restart Ghostty.
+1. Drag the theme folder into the extension sidebar in Cursor.
